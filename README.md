@@ -142,3 +142,13 @@ $env:TF_ENABLE_ONEDNN_OPTS=0
 
 ## 9. License
 MIT License
+
+---
+
+## 10. Run the Project in Kaggle or Jupyter Notebook
+
+You can also run the entire workflow in a notebook environment such as Kaggle or Jupyter using the included notebook:
+
+- **semantic-search-workflow.ipynb**
+
+This notebook demonstrates all steps: installing requirements, extracting text from PDF, chunking, embedding, building the FAISS index, and performing semantic search—all in one place. Simply open the notebook and run the cells sequentially.
