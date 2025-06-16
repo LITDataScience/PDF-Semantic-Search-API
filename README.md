@@ -1,4 +1,4 @@
-# Medical PDF Semantic Search API
+# PDF Semantic Search API
 
 This project provides a semantic search API over medical PDF documents using Sentence Transformers and FAISS. It also includes scripts for building the vector index and for direct search testing, as well as a full test suite.
 
