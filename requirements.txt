@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+pdfplumber
+faiss-cpu
+sentence-transformers
+numpy
+pandas
+pydantic
+pytest
